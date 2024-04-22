@@ -13,13 +13,13 @@ export const config = {
 //        gender: 'male',
 //        status: 'active'
 //    },
-    BOOKS_DEV: {
+    DEV: {
         host: 'http://localhost:1234',
     },
-    BOOKS_STG: {
+    STG: {
         host: 'http://localhost:1235',
     },
-    BOOKS_PRD: {
+    PRD: {
         host: 'http://localhost:1236',
     }
 }
