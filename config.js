@@ -14,7 +14,7 @@ export const config = {
 //        status: 'active'
 //    },
     DEV: {
-        host: 'http://localhost:1234',
+        host: 'http://localhost:2345',
     },
     STG: {
         host: 'http://localhost:1235',
